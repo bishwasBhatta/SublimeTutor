@@ -65,7 +65,7 @@ Exercise
 1. In the exercise block above, place your cursor anywhere on the first line
    that contains a series of `underscore` characters.
 2. Now first press `Cmd + E` so 10 underscores take the place of find term.
-3. Now go to the fourth line which has series of `tilda` characters in it.
+3. Now go to the fourth line which has series of `tilde` characters in it.
 4. Press `Cmd + Shift + E`, this copies the series of tilda characters in the
    replace field of replace panel.
 5. Now press `Cmd + Option + E` four times, this should replace all three

@@ -12,7 +12,7 @@ Exercise
 ---------
 
 1. Put your cursor at different places in the code block below
-2. try using `Cmd + Shift + Space` multiple times.
+2. Try using `Cmd + Shift + Space` multiple times.
 3. The selection will increase on every consecutive keystroke. (i.e. Keep the
    `Cmd` and `Shift` keys depressed and hit the `Space` key multiple times)
 
