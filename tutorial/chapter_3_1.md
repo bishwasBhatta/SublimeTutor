@@ -1,7 +1,7 @@
 Multiple cursors
 ===================
 
-Sublime Text provides you a way put your cursor in multiple text blocks at the
+Sublime Text provides you a way to put your cursor in multiple text blocks at the
 same time. Use `Cmd` key with left mouse button and click at multiple places in
 the document to put your cursor at all those places. Now, when you type
 something, the text is appended at all the cursor positions.
@@ -12,7 +12,7 @@ something, the text is appended at all the cursor positions.
 Exercise
 ---------
 
-In the list given below add an asterisk followed by space (`* `) in the
+In the list given below, add an asterisk followed by space (`* `) in the
 beginning of each item. Use `Cmd + click` method for it. Keep `Cmd` key
 pressed and click at the beginning of each list item to place your cursor there.
 When it is done, type `* `
@@ -71,12 +71,12 @@ Exercise
 ---------
 
 In the JavaScript block given below, horse and pigeon have been accidentally
-placed away from their blocks. You could use the transpose selections
+placed in the wrong blocks. You could use the transpose selections
 shortcut that you just learnt, to fix this problem.
 
 Just like what you did in the previous exercise, use `Cmd` key to drag select
-the two words `horse` and `pigeon` first. Once both the words are select and
-you can cursor at the end of both words (affirming multiple selection mode),
+the two words `horse` and `pigeon` first. Once both the words are selected,
+you can see the cursor at the end of both words (affirming multiple selection mode),
 Use the transpose shortcut (`Ctrl + T`) to fix the issue.
 
 
